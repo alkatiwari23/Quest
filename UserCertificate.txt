@@ -1,0 +1,19 @@
+<div ID="pnlFinCertificate" style="display: block; height: 675px; width: 1050px;" runat="server">
+        <div class="col-6 text-center" style="padding: 140px 0 37px 0">
+            <h2 style="padding-top: 35px; font-family: Segoe Script; font-size: 3.7rem;">Certificate</h2>
+        </div>
+        <div class="col-7 text-left">
+            <p style="padding-left: 2rem; font-family: Segoe UI; font-size: 20px;">This is to certify that
+                <b style="border-bottom: solid; border-bottom-width: 1.5px; border-bottom-color: #fff; color: #FFF753; font-size: 22px;">$$ltrlUser$$</b>
+                has successfully completed the course
+                <b>$$ltrlcourse$$</b><br />
+                offered by Finology.in<br />
+            </p>
+        </div>
+
+        <div class="col-3 text-center" style="margin-left: 73%">
+            <p style="font-size: 14px; margin-bottom: 1px; color: #8d8d8d; border-bottom: solid; border-bottom-width: 1px; border-bottom-color: #3d3d3d; font-size:11px; font-family: Segoe UI">SIGNATURE</p>
+            <p style="font-size: 14px; margin-bottom: 0px; color: #0071BC; text-align:left; margin-left: 3rem; font-family: Segoe UI">Pranjal Kamra,</p>
+            <p style="font-size: 14px; margin-bottom: 1px; color: #8d8d8d; text-align:left; margin-left: 3rem; font-family: Segoe UI">CEO, Finology Ventures</p>
+        </div>
+</div>

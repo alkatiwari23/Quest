@@ -1,0 +1,9 @@
+﻿BEGIN:VCALENDAR
+VERSION: 2.0
+BEGIN: VEVENT
+DTSTART:$$ltrldtstart$$
+DTEND:$$ltrldtend$$
+SUMMARY:$$ltrlsummary$$
+URL:$$ltrlurl$$
+END:VEVENT
+END:VCALENDAR
